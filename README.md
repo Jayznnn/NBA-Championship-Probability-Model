@@ -1,7 +1,7 @@
 # NBA Championship Probability Model
 
 ## Overview
-This project develops a predictive model to estimate each NBA team's probability of winning a championship this season based on regular season performance metrics.
+This project develops a predictive model to estimate each NBA team's probability of winning a championship for the 2026 season based on regular season performance metrics.
 
 The model uses:
 - Multi-season team data
