@@ -16,4 +16,4 @@ In order to do so:
   - The TRAIN_SEASONS variable must be changed to look at the desired range of seasonal data for the model to look at
   - The PREDICT_SEASON variable must look at the desired season to predict.  
   - The CHAMPIONS variable must include all championship teams with the desired training years
-  - Comments, documentation, graph titles would need to be changed to include the right years
+  - Comments, documentation, graph titles would need to be changed to include the right seasons
